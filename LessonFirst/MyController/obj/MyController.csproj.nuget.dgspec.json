@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\progCH\\LessonFirst\\MyController\\MyController.csproj": {}
+    "C:\\Users\\Алла\\Desktop\\HomeWorkApi\\LessonFirst\\MyController\\MyController.csproj": {}
   },
   "projects": {
-    "C:\\progCH\\LessonFirst\\MyController\\MyController.csproj": {
+    "C:\\Users\\Алла\\Desktop\\HomeWorkApi\\LessonFirst\\MyController\\MyController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\progCH\\LessonFirst\\MyController\\MyController.csproj",
+        "projectUniqueName": "C:\\Users\\Алла\\Desktop\\HomeWorkApi\\LessonFirst\\MyController\\MyController.csproj",
         "projectName": "MyController",
-        "projectPath": "C:\\progCH\\LessonFirst\\MyController\\MyController.csproj",
+        "projectPath": "C:\\Users\\Алла\\Desktop\\HomeWorkApi\\LessonFirst\\MyController\\MyController.csproj",
         "packagesPath": "C:\\Users\\Алла\\.nuget\\packages\\",
-        "outputPath": "C:\\progCH\\LessonFirst\\MyController\\obj\\",
+        "outputPath": "C:\\Users\\Алла\\Desktop\\HomeWorkApi\\LessonFirst\\MyController\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Алла\\AppData\\Roaming\\NuGet\\NuGet.Config"
